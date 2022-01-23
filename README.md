@@ -2,8 +2,8 @@
 - [Overview](#overview)
   * [Project1](#project1)
   * [CoffeeBar Project](#coffeebar-project)
-  * [Social _Meida_Site_Clone Project](#Social _Meida_Site_Clone Project)
-  * [What I learned？](#what-i-learned-)
+  * [Social_Meida_Site_Clone Project](#social-meida-site-clone-project)
+ - [What I learned？](#what-i-learned)
   
 ## Overview
 This is a project about *Python and Django full-stack web development* including building front-ends with HTML, CSS and Javascript.
