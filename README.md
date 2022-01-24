@@ -6,7 +6,7 @@
  - [What I learned？](#what-i-learned)
   
 ## Overview
-This is a project about *Python and Django full-stack web development* including building front-ends with HTML, CSS and Javascript.
+This is a project about *Python and Django full-stack web development* including building front-ends with HTML, CSS and JavaScript.
 
 ***Project1*** is a simple event site page that includes a user registration page and a confirmation page. 
 
